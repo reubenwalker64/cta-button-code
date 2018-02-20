@@ -1,0 +1,6 @@
+<a href+"#" class="button>Button Text</a>
+
+While editing, add that snippet wherever you want your CTA button to appear on your page, then follow these steps:
+
+1. Replace the # with the URL the button will link to.
+2. Replace “Button Text” with the text you want to display on the button.
